@@ -7,7 +7,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 
 fun main(args: Array<String>) {
-    println("===== Advent of code 2022 day 4 =====")
+    println("===== Advent of code 2022 day 5 =====")
 
     println("== Part One ==")
     val resultOne = challenge(CrateMoverContext(CrateMover9000Strategy()))
